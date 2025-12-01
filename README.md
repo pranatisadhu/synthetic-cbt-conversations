@@ -45,20 +45,25 @@ Evaluation pipeline outputs include:
 
 ## Repository Structure
 generation/
-    generate_conversations.py        # LLM pipeline for generating CBT conversations
-    patient_personas.json            # Patient profiles used in generation
-    therapist_personas.json          # Therapist profiles and styles
-    scenario_templates.json          # Mental-health scenario templates
+
+    generate_conversations.py 
+    # LLM pipeline for generating CBT conversations
 
 evaluation/
-    evaluate_ctrsr.py                # Script to score conversations using CTRS-R
-    ctrsr_rubric.md                  # Full CTRS-R rubric used as reference
-    evaluation_metrics.md            # Operational definitions of the 11 CTRS-R metrics
+
+    evaluate_ctrsr.py
+    # Script to score conversations using CTRS-R
+    CTRS-R-and-CBT-Checklist.pdf    
+    # Full CTRS-R rubric used as reference
+    evaluation_metrics.txt
+    # Operational definitions of the 11 CTRS-R metrics
 
 data/
-    examples/
-        example_conversation_lily_kyle.txt       # Sample generated CBT dialogue
-        example_evaluation_jamie_phone_use.json  # Sample CTRS-R evaluation output
+
+    SDG_patients500.csv
+    # CSV of defined pateint personas
+    SDG_therapists500.csv
+    # CSV of defined therapist personas
 
 README.md
 
