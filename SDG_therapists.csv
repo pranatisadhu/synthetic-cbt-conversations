@@ -1,0 +1,21 @@
+therapist_id,core_traits,modality,communication_style,specialization
+A,"warm, empathetic, patient",Cognitive Behavioral Therapy (CBT),collaborative and encouraging,anxiety disorders
+B,"analytical, structured, direct",Cognitive Behavioral Therapy (CBT),inquisitive and educational,depression and mood disorders
+C,"calm, validating, non-judgmental",Cognitive Behavioral Therapy (CBT),firm but supportive,emotional dysregulation and BPD
+D,"accepting, present-focused, gentle",Cognitive Behavioral Therapy (CBT),metaphorical and mindful,chronic pain and anxiety
+E,"methodical, structured, coaching-style",Cognitive Behavioral Therapy (CBT),goal-oriented and pragmatic,procrastination and ADHD
+F,"inquisitive, quiet, reflective",Cognitive Behavioral Therapy (CBT),exploratory and reserved,relationship patterns and past trauma
+G,"energetic, optimistic, supportive",Cognitive Behavioral Therapy (CBT),motivational and coaching-style,severe depression and anhedonia
+H,"collaborative, direct, encouraging",Cognitive Behavioral Therapy (CBT),structured and coaching-style,OCD and phobias
+I,"patient, reassuring, deeply empathetic",Cognitive Behavioral Therapy (CBT),gentle and validating,high self-criticism and shame
+J,"warm, non-directive, genuine",Cognitive Behavioral Therapy (CBT),reflective and empathetic,self-esteem and life transitions
+K,"systematic, educational, logical",Cognitive Behavioral Therapy (CBT),prescriptive and data-driven,sleep disorders
+L,"direct, challenging, pragmatic",Cognitive Behavioral Therapy (CBT),Socratic and logical,anger management and anxiety
+M,"calm, structured, supportive",Cognitive Behavioral Therapy (CBT),validating and structured,single-incident trauma and PTSD
+N,"flexible, curious, warm",Cognitive Behavioral Therapy (CBT),collaborative and adaptive,general life stress
+O,"observant, analytical, systemic",Cognitive Behavioral Therapy (CBT),reflective and neutral,family conflict
+P,"focused, optimistic, concise",Cognitive Behavioral Therapy (CBT),goal-oriented and complimentary,short-term problems
+Q,"inquisitive, structured, validating",Cognitive Behavioral Therapy (CBT),exploratory and nurturing,personality disorders and chronic issues
+R,"calm, present-focused, gentle",Cognitive Behavioral Therapy (CBT),mindful and educational,depression relapse prevention
+S,"supportive, focused, structured",Cognitive Behavioral Therapy (CBT),supportive and focused,grief and role transitions
+T,"structured, mediatory, educational",Cognitive Behavioral Therapy (CBT),directive and coaching-style,couples counseling
