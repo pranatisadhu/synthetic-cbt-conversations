@@ -9,7 +9,7 @@ The system generates structured psychotherapy dialogues grounded in CBT principl
 ## Features
 
 ### 1. LLM-Powered Conversation Generation
-- Developed initially using Ollama; final pipeline uses GPT-5 for improved quality.
+- Developed initially using Ollama; final pipeline uses GPT API for improved quality.
 - Generates approximately 16-turn dialogues between matched therapist and patient personas.
 - Utilizes:
   - 500 predefined patient personalities
