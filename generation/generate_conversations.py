@@ -76,7 +76,7 @@ def generate_conversations(
     num_dialogs: int = 10,
     model: str = "openai:gpt-4o",
     temperature: float = 0.9,
-    output_prefix: str = "pranati_dialogs",
+    output_prefix: str = "synthetic_dialogs",
     save_excel: bool = True,
 ) -> pd.DataFrame:
     """
